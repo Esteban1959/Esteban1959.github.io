@@ -1,10 +1,10 @@
 # Esteban1959.github.io
-<h1 align="center">Hi 👋, I'm Esteban López Martínez</h1>
+<h1 align="center">Hola 👋, Me llamo Esteban López Martínez</h1>
 <h3 align="center">Un Ingeniero en Desarrollo de Software, Data Analitics</h3>
 
 - 🔭 I’m currently working on **Análisis de Datos y Aplicaciones con Python, Django, PHP**
 
-- 🌱 I’m currently learning **Frameworks, RStudio**
+- 🌱 I’m currently learning **Frameworks, Cursos, RStudio**
 
 - 📫 How to reach me **corlumar@prodigy.net.mx, corlumar@hotmail.com**
 
